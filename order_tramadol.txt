@@ -1,0 +1,11 @@
+ordernr                                        client                                         medicine        rvgnr                 amount       date
+45                                           T. Hendriks                                      tramadol        66899                   90         4-9-2022
+46                                          R.  Hoedrand                                      tramadol        66899                   180        3-1-2022
+47                                           K. Baksteen                                      tramadol        66899                   90         5-6-2022      
+48                                           Z. Tank                                          tramadol        66899                   60         9-7-2022
+49                                           L. Bankstel                                      tramadol        66899                   30         8-5-2022
+50                                           A. Beeld                                         tramadol        66899                   60         7-7-2022
+51                                           N. Marks                                         tramadol        66899                   90         6-4-2022
+52                                           J. Derksen                                       tramadol        66899                   30         7-5-2022
+53                                           H. Ramondo                                       tramadol        66899                   30         3-5-2022
+54                                          O.  Rakaka                                        tramadol        66899                   90         7-8-2022

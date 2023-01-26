@@ -1,0 +1,11 @@
+ordernr                                        client                                          medicine          rvgnr                amount       date
+60                                           T. Vos                                           diclofenac         35672                 90         4-9-2022
+61                                           R. Bakker                                        diclofenac         35672                 180        3-1-2022
+61                                           K. Peter                                         diclofenac         35672                 90         5-6-2022      
+63                                           Z. de Wit                                        diclofenac         35672                 60         9-7-2022
+64                                           L. Brouwe                                        diclofenac         35672                 30         8-5-2022
+65                                           A. Dijkstra                                      diclofenac         35672                 60         7-7-2022
+66                                           N. Marks                                         diclofenac         35672                 90         6-4-2022
+67                                           J. Derksen                                       diclofenac         35672                 30         7-5-2022
+68                                           H. de Graaf                                      diclofenac         35672                 30         3-5-2022
+69                                           o. de Meer                                       diclofenac         35672                 90         7-8-2022

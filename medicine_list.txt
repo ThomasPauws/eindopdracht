@@ -1,0 +1,26 @@
+{
+  "medicine": {
+    "m1": {
+      "name": "paracetamol",
+      "rvgnr": "45638"
+    },
+    "m2": {
+      "name": "tramadol",
+      "rvgnr": "66899"
+    },
+    "m3": {
+      "name": "diclofenac",
+      "rvgnr": "35672"
+    },
+    "m4": {
+      "name": "ibuprofen",
+      "rvgnr": "11988"
+    },
+    "m5": {
+      "name": "naproxen",
+      "rvgnr": "45678"
+    },
+    
+    }
+  }
+}

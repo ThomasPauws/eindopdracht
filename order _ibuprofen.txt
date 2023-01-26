@@ -1,0 +1,11 @@
+ordernr                                        client                                          medicine       rvgnr                  amount       date
+30                                           T. Kok                                           ibuprofen       11988                    90         4-9-2022
+31                                           R.  Rand                                         ibuprofen       11988                    180        3-1-2022
+32                                           K. Bak                                           ibuprofen       11988                    90         5-6-2022      
+33                                           Z. Tandum                                        ibuprofen       11988                    60         9-7-2022
+34                                           L. Bas                                           ibuprofen       11988                    30         8-5-2022
+35                                           A. Beemster                                      ibuprofen       11988                    60         7-7-2022
+36                                           N. Markus                                        ibuprofen       11988                    90         6-4-2022
+37                                           J. De Kerken                                     ibuprofen       11988                    30         7-5-2022
+38                                           H. Rarka                                         ibuprofen       11988                    30         3-5-2022
+39                                          O.  Lubbers                                       ibuprofen       11988                    90         7-8-2022
